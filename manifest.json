@@ -1,0 +1,16 @@
+{
+  "name": "CASHFLOW OS",
+  "short_name": "CashflowOS",
+  "description": "J.A.R.V.I.S. 10x AI Dashboard for Real Estate Development",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a0f1d",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
